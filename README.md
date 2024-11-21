@@ -44,4 +44,4 @@ bbxvip_b2c.sql文件为数据库sql脚本
 
 ##联系方式
 QQ:6365151
-E-MAIL:simon4545@126.com
+G-MAIL:SuperDev9676@gmail.com
